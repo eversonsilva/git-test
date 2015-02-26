@@ -20,16 +20,16 @@ if ($MI >= 7.5){
 } 
 else {
     $MF = ($MI + $PF)/2;
-}
 
 if ($MF >= 5.0){
     echo 'Aprovado com Prova Final';
     echo 'Agora pode descansar tranquilo';
 }
-if ($MF < 5.0){
+
+else {
     echo 'Reprovado';
     echo 'Não foi dessa vez. Ano que vem tem mais TWII';
     echo 'Media Intermediária: '+MI;
     echo 'Media Final: '+MF;
-}
+}}
 ?>
