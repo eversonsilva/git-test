@@ -26,8 +26,8 @@
                         $nomes[2][3] = 'Charles';
                        
                       echo '<tr><td>'.$nomes[0][0].'</td><td>'.$nomes[0][1].'</td><td>'.$nomes[0][2].'</td><td>'.$nomes[0][3].'<br></td></tr>';
-                      echo '<tr><td>' $nomes[1][0].'</td><td>'.$nomes[1][1].'</td><td>'.$nomes[1][2].'</td><td>'.$nomes[1][3].'<br></td></tr>';
-                      echo '<tr><td>' $nomes[2][0].'</td><td>'.$nomes[2][1].'</td><td>'.$nomes[2][2].'</td><td>'.$nomes[2][3].'<br></td></tr>';      
+                      echo '<tr><td>'.$nomes[1][0].'</td><td>'.$nomes[1][1].'</td><td>'.$nomes[1][2].'</td><td>'.$nomes[1][3].'<br></td></tr>';
+                      echo '<tr><td>'.$nomes[2][0].'</td><td>'.$nomes[2][1].'</td><td>'.$nomes[2][2].'</td><td>'.$nomes[2][3].'<br></td></tr>';      
  
                    ?>
         </table>
